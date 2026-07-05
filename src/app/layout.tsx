@@ -195,13 +195,13 @@ export const metadata: Metadata = {
   openGraph: {
     title: "sidess luxury shop | Haute Parfumerie & Fragrances d'Exception",
     description: "Découvrez sidess luxury shop, la référence en parfumerie de luxe au Cameroun. Achetez des parfums authentiques et fragrances d'exception. Livraison à Buea, Douala, Yaoundé.",
-    url: "https://sidess-luxury-shop.com",
+    url: "https://sidessluxuryshop.com",
     siteName: "sidess luxury shop",
     locale: "fr_FR",
     type: "website",
     images: [
       {
-        url: "https://sidess-luxury-shop.com/og-image.jpg",
+        url: "https://sidessluxuryshop.com/og-image.jpg",
         width: 1200,
         height: 630,
         alt: "sidess luxury shop - Haute Parfumerie Cameroun",
@@ -213,11 +213,11 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "sidess luxury shop | Haute Parfumerie & Fragrances d'Exception",
     description: "Découvrez sidess luxury shop, la référence en parfumerie de luxe au Cameroun. Achetez des parfums authentiques. Livraison à Buea, Douala, Yaoundé.",
-    images: ["https://sidess-luxury-shop.com/og-image.jpg"],
+    images: ["https://sidessluxuryshop.com/og-image.jpg"],
   },
   
   alternates: {
-    canonical: "https://sidess-luxury-shop.com",
+    canonical: "https://sidessluxuryshop.com",
   },
   
   category: "perfume",
@@ -241,7 +241,7 @@ export default function RootLayout({
         </main>
         <Footer />
       </body>
-      <GoogleAnalytics gaId="G-M5HTBJCLNR" />
+      <GoogleAnalytics gaId="G-WTHD8BLZ7K" />
     </html>
   );
 }
